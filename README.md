@@ -1,0 +1,1 @@
+# Extracao-de-Notas-Fiscais-para-JSON-e-Sincroniza-o-com-Supabase
